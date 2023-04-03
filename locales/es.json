@@ -163,62 +163,62 @@
 		"export": {
 			"title": "Exporta a Google Drive",
 			"success": "Exportación Completa!",
-			"view-here": "Click here to view your file",
-			"error": "Export Error :("
+			"view-here": "Da click aqui para ver tu archivo.",
+			"error": "Error en la exportación :("
 		}
 	},
 	"gist": {
 		"import": {
-			"title": "Import from Gist",
-			"fetch-error": "Unable to fetch gist files :(",
-			"not-valid-gist-url-error": "Not a valid Gist URL :("
+			"title": "Importa desde Gist",
+			"fetch-error": "No fue posible recuperar los archivos de gist :(",
+			"not-valid-gist-url-error": "No es un URL valido deGist :("
 		}
 	},
 	"import": {
-		"import-from-url": "Import from URL",
-		"not-valid-url-error": "Not a valid URL :(",
-		"import-failed": "Import failed :("
+		"import-from-url": "Importa desde la URL",
+		"not-valid-url-error": "No es una URL valida :(",
+		"import-failed": "Importación fallida :("
 	},
 	"delete": {
 		"title": "¿Estás seguro?",
 		"yes": "Si, ¡hazlo!",
-		"body-member": "Do you really want to remove this member?",
+		"body-member": "¿Enserio deseas remover a este miembro?",
 		"body": {
-			"msg": "Do you really want to delete this note?",
-			"item": "All users will lost their connection."
+			"msg": "¿Enserio quieres borrar este archivo?",
+			"item": "Todos los usuarios perderan conexión."
 		}
 	},
 	"transfer": {
-		"title": "Transfer ownership",
-		"team-label": "Transfer to team you've joined",
-		"team-member-label": "Transfer to current team member",
-		"transfer": "Transfer"
+		"title": "Transferir propiedad",
+		"team-label": "Trasferir al equipo que te has unido",
+		"team-member-label": "Transferir a un miembro del equipo",
+		"transfer": "Transferir"
 	},
 	"pull-changes": {
-		"title": "Pull changes from GitHub",
-		"apply": "Apply all differences"
+		"title": "Sincronizar cambios desde Github",
+		"apply": "Aplicar todos los cambios"
 	},
 	"push-changes": {
-		"title": "Push changes to GitHub",
-		"body": "Are you ready to push changes to github?",
+		"title": "Publicar los cambios en Github",
+		"body": "¿Seguro quieres publicar los cambios en Github?",
 		"push": "Push"
 	},
 	"header": {
 		"extra": {
 			"title": "Extra",
 			"slide": "Modo presentación",
-			"book": "Book Mode"
+			"book": "Modo libro"
 		},
 		"revision": "Revisions",
 		"export": {
-			"title": "Export",
+			"title": "Exportar",
 			"dropbox": "Dropbox",
 			"google-drive": "Google Drive",
 			"gist": "Gist",
 			"snippet": "Snippet"
 		},
 		"import": {
-			"title": "Import",
+			"title": "Importar",
 			"dropbox": "Dropbox",
 			"google-drive": "Google Drive",
 			"gist": "Gist",
@@ -238,109 +238,109 @@
 			"both": "Ambos",
 			"view": "Ver"
 		},
-		"help": "Help",
+		"help": "Ayuda",
 		"image-upload": "Subir imagen",
 		"menu": "Menú",
-		"enterprise-demo": "Demo of Enterprise Edition",
+		"enterprise-demo": "Demo de la Enterprise Edition",
 		"new-note": "Nueva nota",
-		"new-team-note": "New team note",
-		"team-manage": "Manage team",
-		"profile": "Profile",
-		"feature": "Features",
+		"new-team-note": "Nueva nota de equipo",
+		"team-manage": "Administrar equipo",
+		"profile": "Perfil",
+		"feature": "Características",
 		"dashboard": "Dashboard",
-		"settings": "Settings",
-		"logout": "Log out",
-		"sign-in": "Sign in",
-		"team": "Team",
-		"overview": "Overview",
+		"settings": "Configuración",
+		"logout": "Cerrar sesión",
+		"sign-in": "Iniciar sesión",
+		"team": "Equipo",
+		"overview": "Vista previa",
 		"intro": "Introducción",
-		"recent": "Recent",
-		"manage": "Manage",
+		"recent": "Reciente",
+		"manage": "Administra",
 		"new": "Nuevo",
 		"publish": "Publicar",
 		"getting-started": "Getting Started",
 		"getting-started-with-hackmd": "Getting Started with HackMD",
-		"getting-started-tips": "Learn how to create, share, and manage your notes.",
-		"signout": "Sign out",
-		"permission": "Permission",
+		"getting-started-tips": "Aprende como crear, compartir, y administrar tus notas.",
+		"signout": "Cerrar sesión",
+		"permission": "Permisos",
 		"note": {
-			"title": "Note Permission",
-			"read": "Read",
-			"write": "Write",
-			"owner": "Owner",
+			"title": "Sin permisos",
+			"read": "Lectura",
+			"write": "Escritura",
+			"owner": "Priopietario",
 			"signedin": "Signed-in",
-			"guest": "Guest",
-			"public": "Public",
-			"help": "Note owner decides who can read or write this note."
+			"guest": "Invitado",
+			"public": "Público",
+			"help": "Nota: El dueño decice quien puede leer o escribir en la nota."
 		},
 		"comments": {
-			"title": "Comments",
-			"enable": "Enable",
-			"disable": "Disable",
-			"read": "Read",
-			"write": "Comment",
-			"owner": "Owner",
+			"title": "Comentarios",
+			"enable": "Activados",
+			"disable": "Desactivados",
+			"read": "Lectura",
+			"write": "Comentar",
+			"owner": "Priopietario",
 			"signedin": "Signed-in",
-			"guest": "Guest",
-			"help": "Note owner decides who can read or give comments."
+			"guest": "Invitado",
+			"help": "Nota: El dueño decide quien puede leer o realizar comentarios."
 		},
 		"invitee": {
-			"title": "Invitee",
-			"invite": "Invite",
-			"read": "Read",
-			"write": "Write",
-			"admin": "Admin",
-			"help": "Admin can invite users and change note permissions.",
-			"search-user-placeholder": "Search user by email..."
+			"title": "Invitar",
+			"invite": "Invitar",
+			"read": "Leer",
+			"write": "Escribir",
+			"admin": "Administrador",
+			"help": "El administrador puede invitar usuarios y cambiar los permisos de la nota.",
+			"search-user-placeholder": "Buscar usuarios por email..."
 		},
-		"options": "Options",
-		"share": "Share",
-		"transfer-ownership": "Transfer ownership",
-		"delete-note": "Delete this note",
-		"back": "Back",
+		"options": "Opciones",
+		"share": "Compartir",
+		"transfer-ownership": "Transferir propiedad",
+		"delete-note": "Borra esta nota",
+		"back": "Atras",
 		"shelf": "Shelf",
 		"github": {
-			"pull": "Pull Changes",
-			"push": "Push Changes"
+			"pull": "Sincronizar Cambios",
+			"push": "Publicar Cambios"
 		},
 		"notification": {
 			"watch": {
-				"label": "Watch",
-				"title": "Be notified of any changes"
+				"label": "Ver",
+				"title": "Estar notificado de cualquier cambio"
 			},
 			"never": {
-				"label": "Never",
-				"title": "Never be notified"
+				"label": "Nucna",
+				"title": "Nunca estar notificado"
 			},
-			"no-email": "Set email in <i class=\"fa fa-gear\"></i> Settings to receive email notification!"
+			"no-email": "Enviar un email a <i class=\"fa fa-gear\"></i> Settings Para recibir notificaciones por email!"
 		},
-		"lost-content": "You might lost content if you leave now, are you sure?",
+		"lost-content": "Puedes perder el contenido si sale ahora, estas seguro?",
 		"status-type": {
-			"connected": "CONNECTED",
+			"connected": "Conectado",
 			"online": "ONLINE",
 			"offline": "OFFLINE"
 		}
 	},
 	"footer": {
-		"product": "Product",
-		"enterprise": "Enterprise",
-		"templates": "Templates",
+		"product": "Producto",
+		"enterprise": "Empresa",
+		"templates": "Plantillas",
 		"open-source": "Open Source",
-		"resources": "Resources",
-		"features": "Features",
+		"resources": "Recursos",
+		"features": "Características",
 		"tutorial": "Tutorial",
 		"faq": "FAQ",
-		"information": "Information",
-		"about": "About",
+		"information": "Información",
+		"about": "Acerca de",
 		"blog": "Blog",
-		"company": "Company",
-		"privacy": "Privacy",
-		"tos": "Terms of Use",
+		"company": "Compañia",
+		"privacy": "Privacidad",
+		"tos": "Terminos de uso",
 		"releases": "Versiones",
-		"about-ee": "About {{name}}",
-		"about-hackmd": "About HackMD",
+		"about-ee": "Acerca de {{name}}",
+		"about-hackmd": "Acerca de HackMD",
 		"coffee": "Buy us coffee",
-		"terms": "Terms",
+		"terms": "Terminos",
 		"donate": "BUY US COFFEE"
 	},
 	"error": {
