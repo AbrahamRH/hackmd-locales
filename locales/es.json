@@ -15,7 +15,7 @@
 		"title": "Ayuda",
 		"contact": {
 			"title": "Contactos",
-			"messenger": "Talk to us",
+			"messenger": "Habla con nosotros",
 			"github": "Reportar un problema",
 			"email": "Enviarnos un email",
 			"donate": "Buy us coffee"
@@ -25,7 +25,7 @@
 		"yaml-meta": "Metadatos en YAML",
 		"slide": "Ejemplo de diapositiva",
 		"book": "Book Example",
-		"cheatsheet": "Ayudamemorias",
+		"cheatsheet": "cheatsheet",
 		"example": "Ejemplo",
 		"syntax": {
 			"h1": "Cabecera",
@@ -46,27 +46,27 @@
 		}
 	},
 	"signup": {
-		"signup": "Sign up",
-		"new": "New to HackMD? ",
+		"signup": "Registrate",
+		"new": "¿Nuevo en HackMD? ",
 		"eeSite": {
 			"terms": {
-				"1": "By clicking below, you agree to our ",
-				"2": "terms of service."
+				"1": "Dando click abajo, aceptas nuestros ",
+				"2": "terminos de servicio."
 			}
 		}
 	},
 	"signin": {
-		"signin": "Sign in",
-		"signin-ldap" : "Sign in to {{name}} (LDAP)",
-		"signin-via-email": "Sign in via Email",
+		"signin": "Iniciar sesión",
+		"signin-ldap" : "Iniciar sesión con {{name}} (LDAP)",
+		"signin-via-email": "Iniciando sesión vía Email",
 		"choose": "Elegir método",
 		"via": "Ingresar via {{text}}",
-		"email-or-username": "Email or Username",
-		"email-or-username-placeholder": "Your email or Username",
+		"email-or-username": "Email o Nombre de usuario",
+		"email-or-username-placeholder": "Email o Nombre de usuario",
 		"email": "Email",
-		"email-placeholder": "Your email",
-		"password": "Password",
-		"password-placeholder": "Your password"
+		"email-placeholder": "Email",
+		"password": "Contraseña",
+		"password-placeholder": "Contraseña"
 	},
 	"refresh": {
 		"title": "Esta página necesita ser cargada de nuevo",
@@ -88,11 +88,11 @@
 	},
 	"infobar": {
 		"owned": "owned this note",
-		"created": "created",
-		"changed": "changed",
+		"created": "creada",
+		"changed": "cambiado",
 		"notification" : {
-			"watch": "Watch - Be notified of any changes",
-			"never": "Never - Never be notified"
+			"watch": "Watch - Recibir notificaciones de cualquier cambio",
+			"never": "Nunca - No recibir notificaciones"
 		}
 	},
 	"clipboard": {
@@ -113,8 +113,8 @@
 	"gist-import": {
 		"title": "Importar de un Gist",
 		"content": "Pega el URL de tu Gist aquí...",
-		"clear": "Clear",
-		"import": "Import"
+		"clear": "Limpiar",
+		"import": "Importar"
 	},
 	"snippet-import": {
 		"title": "Importar de Snippet",
@@ -125,44 +125,44 @@
 			"placeholder": "Elegir de un Snippet disponible"
 		},
 		"body": {
-			"project": "Project:",
+			"project": "Projecto:",
 			"Snippet": "Snippet:"
 		},
-		"clear": "Clear",
-		"import": "Import",
+		"clear": "Limpiar",
+		"import": "Importar",
 		"error": {
-			"fetch-error": "Unable to fetch gitlab parameters :(",
-			"not-valid-url-error": "Not a valid Snippet URL :("
+			"fetch-error": "No se pueden extraer los parametros de gitlab :(",
+			"not-valid-url-error": "No es un URL válido :("
 		}
 	},
 	"snippet-export": {
 		"title": "Exportar a Snippet",
 		"project": {
-			"title": "Project:",
-			"placeholder": "Select From Available Projects"
+			"title": "Projecto:",
+			"placeholder": "Selecciona de los projectos dispobibles"
 		},
 		"visibility": {
-			"title": "Visibility:",
+			"title": "Visibilidad:",
 			"placeholder": "Elegir el nivel de visibilidad",
-			"private": "Private",
-			"internal": "Internal"
+			"private": "Privada",
+			"internal": "Interna"
 		},
 		"body": {
-			"title": "Title:",
-			"filename": "File Name:"
+			"title": "Titulo:",
+			"filename": "Nombre del archivo:"
 		},
 		"export": "Exportar",
-		"success": "Export Successful!",
-		"view-here": "View Snippet Here"
+		"success": "Se exporto satisfactoriamente!",
+		"view-here": "Ver Snippet aqui"
 	},
 	"google-drive": {
 		"import": {
-			"title": "Import from Google Drive",
-			"failed": "Import failed :("
+			"title": "Importar desde Google Drive",
+			"failed": "Error al importar los datos :("
 		},
 		"export": {
-			"title": "Export to Google Drive",
-			"success": "Export Complete!",
+			"title": "Exporta a Google Drive",
+			"success": "Exportación Completa!",
 			"view-here": "Click here to view your file",
 			"error": "Export Error :("
 		}
